@@ -1,6 +1,7 @@
 ## Exploratory Data Analysis Tools
 - Pandas
 - Numpy
+- Scipy
 
 ## Data Visualization
 - Matplotlib
